@@ -8,7 +8,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 import json
-from selenium.webdriver.common.keys import Keys
 import random
 
 print("Connecting to browser...")
@@ -33,7 +32,7 @@ try:
     print("URL loaded successfully.")
 
     print("Waiting for 2 minutes to log in...")
-    time.sleep(120)  # Wait for login
+    time.sleep(120)  # Wait for login manually
 
     # Wait for replies to load
     WebDriverWait(driver, 20).until(
@@ -46,24 +45,22 @@ try:
     processed_tweets = set()
 
     def scroll_page():
-        """Scroll the page with random intervals and distances"""
-        scroll_amount = random.randint(300, 700)  # Random scroll distance
-        driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
-        time.sleep(random.uniform(1.5, 3.0))  # Random wait time
+        """Scroll by a constant distance based on the initial scrollable height."""
+        driver.execute_script("window.scrollBy(0, window.innerHeight);")
+        time.sleep(random.uniform(5.0, 8.0))  # Pause to let content load
 
     def process_visible_replies():
-        """Process all currently visible replies"""
+        """Process all currently visible replies."""
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         tweets = soup.find_all("article", {"data-testid": "tweet"})
-        
+
         new_replies = 0
         for tweet in tweets[1:]:  # Skip the first tweet (main tweet)
-            # Create a unique identifier for the tweet
+            reply_data = {}
             tweet_text = tweet.get_text().strip()
             tweet_id = hash(tweet_text[:100])  # Use first 100 chars as identifier
             
             if tweet_id not in processed_tweets:
-                reply_data = {}
                 try:
                     # Get reply author information
                     author_element = tweet.find("div", {"data-testid": "User-Name"})
@@ -80,11 +77,18 @@ try:
                         if handle_span:
                             reply_data["author_handle"] = handle_span.text.strip()
 
+                    # Get profile image URL
+                    profile_img_element = tweet.find("div", {"data-testid": "Tweet-User-Avatar"}).find("img")
+                    if profile_img_element:
+                        reply_data["profile_img_url"] = profile_img_element['src']
+                    else:
+                        reply_data["profile_img_url"] = ""  # Empty string if no profile image
+
                     # Get reply text
                     text_element = tweet.find("div", {"data-testid": "tweetText"})
                     if text_element:
                         reply_data["text"] = text_element.get_text(separator=' ').strip()
-                    
+
                     # Get timestamp
                     time_element = tweet.find("time")
                     if time_element:
@@ -98,6 +102,11 @@ try:
                             metrics[f"{metric}s"] = metric_element.text.strip()
                     reply_data["metrics"] = metrics
 
+                    # Scrape image URL from tweet, if available
+                    image_elements = tweet.find_all("img", {"alt": "Image"})
+                    image_urls = [img['src'] for img in image_elements if img['src']]
+                    reply_data["images"] = image_urls if image_urls else []
+
                     if reply_data.get("text"):  # Only add if we have at least the text
                         all_replies.append(reply_data)
                         processed_tweets.add(tweet_id)
@@ -109,15 +118,29 @@ try:
         
         return new_replies
 
+    def click_show_more_replies():
+        """Click 'Show more replies' if available"""
+        try:
+            show_more_button = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.XPATH, "//button//span[text()='Show']"))
+            )
+            if show_more_button:
+                driver.execute_script("arguments[0].scrollIntoView();", show_more_button)  # Scroll to button
+                show_more_button.click()
+                time.sleep(3)  # Allow time for replies to load
+
+        except Exception as e:
+            print(f"Error clicking 'Show more replies': {e}")
+
     print("\nScrolling and capturing replies...")
     no_new_replies_count = 0
     total_scrolls = 0
-    max_scrolls = 200  # Increased maximum scrolls
+    max_scrolls = 300  # Increased maximum scrolls
 
     while total_scrolls < max_scrolls and no_new_replies_count < 5:
         # Process current visible replies
         new_replies = process_visible_replies()
-        
+
         if new_replies > 0:
             print(f"Found {new_replies} new replies. Total replies so far: {len(all_replies)}")
             no_new_replies_count = 0
@@ -125,29 +148,12 @@ try:
             no_new_replies_count += 1
 
         # Scroll the page
-        previous_height = driver.execute_script("return document.body.scrollHeight")
         scroll_page()
-        
-        # Wait for new content to load
-        time.sleep(2)
-        
-        # Check if we've reached the bottom
-        new_height = driver.execute_script("return document.body.scrollHeight")
-        if new_height == previous_height:
-            # Try one more aggressive scroll
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(3)
-            if new_height == driver.execute_script("return document.body.scrollHeight"):
-                if no_new_replies_count >= 5:
-                    print("Reached the end of replies.")
-                    break
-        
+
+        # Click 'Show more replies' if available
+        click_show_more_replies()
+
         total_scrolls += 1
-        
-        # Occasionally scroll up a bit to trigger more loading
-        if total_scrolls % 10 == 0:
-            driver.execute_script("window.scrollBy(0, -500);")
-            time.sleep(1.5)
 
     print(f"\nFinished capturing replies. Total replies found: {len(all_replies)}")
     
@@ -161,14 +167,6 @@ try:
     with open('twitter_replies.json', 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print("Replies saved to 'twitter_replies.json'")
-
-    # Print sample of replies
-    print("\nSample of first 3 replies:")
-    for i, reply in enumerate(all_replies[:3]):
-        print(f"\nReply {i+1}:")
-        print(f"Author: {reply.get('author_name', 'N/A')} ({reply.get('author_handle', 'N/A')})")
-        print(f"Text: {reply.get('text', 'N/A')[:100]}...")
-        print(f"Metrics: {reply.get('metrics', {})}")
 
 except Exception as e:
     print(f"An error occurred: {e}")

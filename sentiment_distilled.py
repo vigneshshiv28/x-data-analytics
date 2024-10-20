@@ -17,7 +17,7 @@ st.sidebar.markdown("This application performs sentiment analysis on multilingua
 data = pd.read_csv("C:/Users/Khyati/Downloads/refined_data.csv")
 
 # Initialize the multilingual sentiment analysis pipeline
-sentiment_pipeline = pipeline("sentiment-analysis", model="nlptown/bert-base-multilingual-uncased-sentiment")
+sentiment_pipeline = pipeline("text-classification", model="lxyuan/distilbert-base-multilingual-cased-sentiments-student")
 
 # Function to classify sentiment using the pre-trained model
 def get_sentiment(text):

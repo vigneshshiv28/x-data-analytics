@@ -29,11 +29,11 @@ logging.basicConfig(
 class TwitterScraper:
     def __init__(self):
         self.account_url = "https://x.com/FibeIndia/with_replies"
-        self.start_date = "2023-10-24"
+        self.start_date = "2024-08-01"
         self.end_date = "2024-10-24"
         self.company_handle = "FibeIndia"
         self.tweet_data = []
-        self.checkpoint_file = "tweet_checkpoint2.json"
+        self.checkpoint_file = "fibe_india_tweet_checkpoint2.json"
         self.processed_tweets = set()  # Track processed tweet IDs
         self.setup_driver()
         self.setup_signal_handlers()
@@ -203,7 +203,7 @@ class TwitterScraper:
             # Scroll in smaller increments
             for _ in range(8):  # Adjust number of scrolls as needed
                 self.driver.execute_script("window.scrollBy(0, window.innerHeight / 4);")
-                time.sleep(1)  # 2 second pause between each scroll
+                time.sleep(0.5)  # 2 second pause between each scroll
             
             # Check if we reached new content
             new_height = self.driver.execute_script("return document.documentElement.scrollHeight")
@@ -332,7 +332,7 @@ class TwitterScraper:
     def run(self):
         try:
             self.collect_tweets()
-            self.save_tweets_to_csv("fibe_india_timeline_tweets.csv")
+            self.save_tweets_to_csv("fibe_india_timeline_tweets3.csv")
         except Exception as e:
             logging.error(f"Error in main execution: {str(e)}")
         finally:

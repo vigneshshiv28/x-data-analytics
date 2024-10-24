@@ -22,11 +22,11 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 class TwitterScraper:
     def __init__(self):
         self.account_url = "https://x.com/FibeIndia/with_replies"
-        self.start_date = "2024-10-05"
-        self.end_date = "2024-10-19"
+        self.start_date = "2023-01-01"
+        self.end_date = "2024-10-24"
         self.company_handle = "FibeIndia"
         self.customer_tweet_links = set()
-        self.checkpoint_file = "checkpoint.json"
+        self.checkpoint_file = "fibe_checkpoint.json"
         self.setup_driver()
         self.setup_signal_handlers()
         
@@ -92,7 +92,7 @@ class TwitterScraper:
     def scroll_page(self):
         """Scroll the page and handle potential errors"""
         try:
-            self.driver.execute_script("window.scrollBy(0, window.innerHeight)/4;")
+            self.driver.execute_script("window.scrollBy(0, window.innerHeight);")
             time.sleep(5)
         except Exception as e:
             logging.error(f"Error scrolling page: {str(e)}")

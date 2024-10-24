@@ -1,0 +1,671 @@
+2024-10-24 16:21:47,803 - INFO - ====== WebDriver manager ======
+2024-10-24 16:21:50,027 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:21:50,803 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:21:50,931 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\130.0.6723.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-10-24 16:21:58,037 - INFO - Waiting for manual login...
+2024-10-24 16:23:58,264 - INFO - Saved checkpoint with 0 tweets
+2024-10-24 16:23:58,264 - INFO - Checkpoint saved. Total tweets: 0
+2024-10-24 16:24:10,017 - INFO - Added new tweet: https://x.com/ShaktiMehr91409/status/1847614450951471297
+2024-10-24 16:24:10,017 - INFO - Added new tweet: https://x.com/amannimbhoria/status/1847530120984059944
+2024-10-24 16:24:10,017 - INFO - Added new tweet: https://x.com/PKC_Pratik/status/1846126177276105046
+2024-10-24 16:24:10,017 - INFO - Added new tweet: https://x.com/Syedimt49390252/status/1846504842790912478
+2024-10-24 16:24:10,017 - INFO - Added new tweet: https://x.com/amannimbhoria/status/1847526724042395929
+2024-10-24 16:24:13,179 - INFO - Added new tweet: https://x.com/Akhil57701870/status/1846514023593873667
+2024-10-24 16:24:13,192 - INFO - Added new tweet: https://x.com/advocate757/status/1846511731444437310
+2024-10-24 16:24:13,192 - INFO - Added new tweet: https://x.com/aa_arbaaz22/status/1846598069917217108
+2024-10-24 16:24:13,192 - INFO - Added new tweet: https://x.com/Chetans27186404/status/1846173230379241821
+2024-10-24 16:24:13,207 - INFO - Added new tweet: https://x.com/Chetans27186404/status/1846173124707926175
+2024-10-24 16:24:16,331 - INFO - Added new tweet: https://x.com/Yoyo37023843638/status/1844755373108207887
+2024-10-24 16:24:16,331 - INFO - Added new tweet: https://x.com/Yoyo37023843638/status/1845776347840311601
+2024-10-24 16:24:16,331 - INFO - Added new tweet: https://x.com/pradeep87585/status/1845747503129411587
+2024-10-24 16:24:16,331 - INFO - Added new tweet: https://x.com/PanditAmit1991/status/1839207567630938158
+2024-10-24 16:24:16,331 - INFO - Added new tweet: https://x.com/PanditAmit1991/status/1845725755994411012
+2024-10-24 16:24:19,550 - INFO - Added new tweet: https://x.com/advocate725/status/1844233042623397999
+2024-10-24 16:24:19,550 - INFO - Added new tweet: https://x.com/akashsam22/status/1844076932205510954
+2024-10-24 16:24:19,550 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1842106080731791788
+2024-10-24 16:24:19,550 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1843988314128617670
+2024-10-24 16:24:19,569 - INFO - Added new tweet: https://x.com/Syedimt49390252/status/1843882538118631868
+2024-10-24 16:24:19,572 - INFO - Added new tweet: https://x.com/Ruchika63116033/status/1843904397287534736
+2024-10-24 16:24:19,576 - INFO - Added new tweet: https://x.com/Ruchika63116033/status/1843883158066082190
+2024-10-24 16:24:22,765 - INFO - Added new tweet: https://x.com/akashsam22/status/1843018939842150472
+2024-10-24 16:24:22,765 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1843210126553239823
+2024-10-24 16:24:22,775 - INFO - Added new tweet: https://x.com/K08284969Roshan/status/1842834442949177510
+2024-10-24 16:24:22,778 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1842521928604496147
+2024-10-24 16:24:22,778 - INFO - Added new tweet: https://x.com/Anubhav__arora/status/1842598667720835312
+2024-10-24 16:24:22,788 - INFO - Added new tweet: https://x.com/Sanjeev39462430/status/1837417963374129238
+2024-10-24 16:24:22,791 - INFO - Added new tweet: https://x.com/Sanjeev39462430/status/1842610411897786609
+2024-10-24 16:24:25,936 - INFO - Added new tweet: https://x.com/akashsam22/status/1840847662544797935
+2024-10-24 16:24:25,936 - INFO - Added new tweet: https://x.com/him_moni_21/status/1840796577314611326
+2024-10-24 16:24:25,949 - INFO - Added new tweet: https://x.com/ar62383130/status/1841138909314474017
+2024-10-24 16:24:32,262 - INFO - Added new tweet: https://x.com/S152326S/status/1841171262401626208
+2024-10-24 16:24:32,262 - INFO - Added new tweet: https://x.com/pintukumarpal2/status/1841351718551863364
+2024-10-24 16:24:32,283 - INFO - Added new tweet: https://x.com/fatcatrash/status/1841694200456196176
+2024-10-24 16:24:35,482 - INFO - Added new tweet: https://x.com/shonuthinks/status/1840319451004129377
+2024-10-24 16:24:35,482 - INFO - Added new tweet: https://x.com/irshd_qaisr/status/1840639356207247705
+2024-10-24 16:24:35,482 - INFO - Added new tweet: https://x.com/irshd_qaisr/status/1840642385744711926
+2024-10-24 16:24:35,498 - INFO - Added new tweet: https://x.com/akashsam22/status/1840490723348558070
+2024-10-24 16:24:35,498 - INFO - Added new tweet: https://x.com/saucap/status/1839272219416899824
+2024-10-24 16:24:35,514 - INFO - Added new tweet: https://x.com/DilipKarsa49044/status/1839640616222838890
+2024-10-24 16:24:35,514 - INFO - Added new tweet: https://x.com/Sanjeev39462430/status/1839593456689193428
+2024-10-24 16:24:42,165 - INFO - Added new tweet: https://x.com/JincyRajan26089/status/1838910139241206267
+2024-10-24 16:24:42,165 - INFO - Added new tweet: https://x.com/advHarshita123/status/1838891991477756346
+2024-10-24 16:24:42,165 - INFO - Added new tweet: https://x.com/Nirmesh87/status/1838467352700318113
+2024-10-24 16:24:42,181 - INFO - Added new tweet: https://x.com/shareqkk/status/1816051280797659640
+2024-10-24 16:24:42,181 - INFO - Added new tweet: https://x.com/styles_aj71992/status/1837450951512211819
+2024-10-24 16:24:42,181 - INFO - Added new tweet: https://x.com/vishnu5424/status/1837356420804514030
+2024-10-24 16:24:45,334 - INFO - Added new tweet: https://x.com/Rihan_corpHR/status/1836835851999007073
+2024-10-24 16:24:45,350 - INFO - Added new tweet: https://x.com/hitesh_soo32559/status/1836773746465701938
+2024-10-24 16:24:45,350 - INFO - Added new tweet: https://x.com/SohrabA72375015/status/1836740266520350773
+2024-10-24 16:24:45,350 - INFO - Added new tweet: https://x.com/SohrabA72375015/status/1836739662691381698
+2024-10-24 16:24:45,360 - INFO - Added new tweet: https://x.com/Pankaj46353175/status/1836733434204430374
+2024-10-24 16:24:48,615 - INFO - Added new tweet: https://x.com/Syedimt49390252/status/1835673846797443170
+2024-10-24 16:24:48,615 - INFO - Added new tweet: https://x.com/Syedimt49390252/status/1835930935998464424
+2024-10-24 16:24:48,630 - INFO - Added new tweet: https://x.com/sanjeev77712451/status/1835964298599780495
+2024-10-24 16:24:48,630 - INFO - Added new tweet: https://x.com/vishnu5424/status/1834859294350778611
+2024-10-24 16:24:48,630 - INFO - Added new tweet: https://x.com/Rihan_corpHR/status/1835766401123889154
+2024-10-24 16:24:48,646 - INFO - Added new tweet: https://x.com/sfs303168/status/1835661717138776139
+2024-10-24 16:24:51,849 - INFO - Added new tweet: https://x.com/7501731707/status/1834190703238492476
+2024-10-24 16:24:51,853 - INFO - Added new tweet: https://x.com/gaurritu12/status/1834299861639811451
+2024-10-24 16:24:51,859 - INFO - Added new tweet: https://x.com/K08284969Roshan/status/1833777310782112087
+2024-10-24 16:24:51,859 - INFO - Added new tweet: https://x.com/RodeySumit/status/1833435512293499240
+2024-10-24 16:24:51,859 - INFO - Added new tweet: https://x.com/RodeySumit/status/1833479987573268698
+2024-10-24 16:24:55,058 - INFO - Added new tweet: https://x.com/BabuGanta7292/status/1833383266969149497
+2024-10-24 16:24:55,058 - INFO - Added new tweet: https://x.com/Sunny_airdrop/status/1833337618270158925
+2024-10-24 16:24:55,058 - INFO - Added new tweet: https://x.com/BandBajaateRaho/status/1832669927175495801
+2024-10-24 16:24:55,058 - INFO - Added new tweet: https://x.com/99Rishe/status/1833040465098051686
+2024-10-24 16:24:55,073 - INFO - Added new tweet: https://x.com/Sunny_airdrop/status/1832680608184631318
+2024-10-24 16:24:55,073 - INFO - Added new tweet: https://x.com/99Rishe/status/1832670904314425452
+2024-10-24 16:24:55,084 - INFO - Added new tweet: https://x.com/Agdtruelovefor1/status/1832695840949010694
+2024-10-24 16:24:55,090 - INFO - Added new tweet: https://x.com/rahulve68392112/status/1725432053997453322
+2024-10-24 16:24:58,253 - INFO - Added new tweet: https://x.com/99Rishe/status/1831663722470711562
+2024-10-24 16:24:58,269 - INFO - Added new tweet: https://x.com/ADialabank/status/1830502080286482824
+2024-10-24 16:24:58,269 - INFO - Added new tweet: https://x.com/RIJUBHATTA7315/status/1830890023333310856
+2024-10-24 16:24:58,285 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1829955749608349928
+2024-10-24 16:24:58,285 - INFO - Added new tweet: https://x.com/rahulve68392112/status/1831037752022016495
+2024-10-24 16:25:01,465 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1828816234911240313
+2024-10-24 16:25:01,470 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1829368221482340413
+2024-10-24 16:25:01,475 - INFO - Added new tweet: https://x.com/amarkin1203/status/1829109676887208338
+2024-10-24 16:25:01,480 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1829112513893486915
+2024-10-24 16:25:01,483 - INFO - Added new tweet: https://x.com/manoj79497/status/1828794308964778114
+2024-10-24 16:25:01,489 - INFO - Added new tweet: https://x.com/Er_hsparmar/status/1828031620995244489
+2024-10-24 16:25:01,491 - INFO - Added new tweet: https://x.com/Er_hsparmar/status/1828756126114238483
+2024-10-24 16:25:01,496 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1828858302119456877
+2024-10-24 16:25:01,500 - INFO - Added new tweet: https://x.com/mieknathshinde/status/1828434575904624992
+2024-10-24 16:25:04,682 - INFO - Added new tweet: https://x.com/FinReliance/status/1828869981192303092
+2024-10-24 16:25:04,698 - INFO - Added new tweet: https://x.com/manoj79497/status/1828758997203292596
+2024-10-24 16:25:04,698 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1828737745730023868
+2024-10-24 16:25:04,709 - INFO - Added new tweet: https://x.com/adityazore40/status/1828689258497839200
+2024-10-24 16:25:04,710 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1828647958465643000
+2024-10-24 16:25:04,717 - INFO - Added new tweet: https://x.com/gemtripathi/status/1828414562275619273
+2024-10-24 16:25:07,884 - INFO - Added new tweet: https://x.com/DarakhshaZishan/status/1827929141594714504
+2024-10-24 16:25:07,899 - INFO - Added new tweet: https://x.com/aknaivli/status/1827238414615560310
+2024-10-24 16:25:07,899 - INFO - Added new tweet: https://x.com/aknaivli/status/1827237710819438814
+2024-10-24 16:25:07,910 - INFO - Added new tweet: https://x.com/nsitharamanoffc/status/1812016340619706752
+2024-10-24 16:25:07,913 - INFO - Added new tweet: https://x.com/karjdaar01/status/1825152888538075173
+2024-10-24 16:25:07,919 - INFO - Saved checkpoint with 97 tweets
+2024-10-24 16:25:07,919 - INFO - Checkpoint saved. Total tweets: 97
+2024-10-24 16:25:11,140 - INFO - Added new tweet: https://x.com/Sanjeev39462430/status/1826535585273840046
+2024-10-24 16:25:11,140 - INFO - Added new tweet: https://x.com/mangesh_du24577/status/1826561265302466895
+2024-10-24 16:25:11,157 - INFO - Added new tweet: https://x.com/AnkitSaraswat59/status/1826492878740398236
+2024-10-24 16:25:11,159 - INFO - Added new tweet: https://x.com/AnuragS36263126/status/1826479578610626655
+2024-10-24 16:25:14,360 - INFO - Added new tweet: https://x.com/FayazAhmed178/status/1824105372086350265
+2024-10-24 16:25:14,427 - INFO - Added new tweet: https://x.com/Ratecut_in/status/1825142634660368641
+2024-10-24 16:25:14,435 - INFO - Added new tweet: https://x.com/Raviran6342/status/1825429924238229556
+2024-10-24 16:25:14,447 - INFO - Added new tweet: https://x.com/shyamsri7333/status/1824453768185831917
+2024-10-24 16:25:17,605 - INFO - Added new tweet: https://x.com/prabhat17764264/status/1824120863311945840
+2024-10-24 16:25:17,620 - INFO - Added new tweet: https://x.com/HaiderK76834/status/1824121818262708600
+2024-10-24 16:25:17,620 - INFO - Added new tweet: https://x.com/Gurmeet86228275/status/1824124066300670435
+2024-10-24 16:25:17,627 - INFO - Added new tweet: https://x.com/DYOUTH57864658/status/1824124609907851382
+2024-10-24 16:25:17,627 - INFO - Added new tweet: https://x.com/GamingSanj47110/status/1824131375659635139
+2024-10-24 16:25:17,636 - INFO - Added new tweet: https://x.com/FayazAhmed178/status/1824103800833233263
+2024-10-24 16:25:20,860 - INFO - Added new tweet: https://x.com/lalit_pardeshi/status/1822916740868874727
+2024-10-24 16:25:20,938 - INFO - Added new tweet: https://x.com/ShubhneetThakur/status/1822914991802228837
+2024-10-24 16:25:20,938 - INFO - Added new tweet: https://x.com/SupriyoKar17987/status/1822886484245987818
+2024-10-24 16:25:20,954 - INFO - Added new tweet: https://x.com/lalit_pardeshi/status/1822888801422979564
+2024-10-24 16:25:20,954 - INFO - Added new tweet: https://x.com/RanjayKunw52436/status/1822169830394352032
+2024-10-24 16:25:24,229 - INFO - Added new tweet: https://x.com/tweet2waris/status/1821782728884265044
+2024-10-24 16:25:24,229 - INFO - Added new tweet: https://x.com/pradeep87585/status/1821800488028737760
+2024-10-24 16:25:24,237 - INFO - Added new tweet: https://x.com/knowledgeatpeak/status/1821214619010290092
+2024-10-24 16:25:24,244 - INFO - Added new tweet: https://x.com/knowledgeatpeak/status/1821214595559928010
+2024-10-24 16:25:27,442 - INFO - Added new tweet: https://x.com/ssin0830/status/1821434031612793226
+2024-10-24 16:25:27,446 - INFO - Added new tweet: https://x.com/ssin0830/status/1821433954227941702
+2024-10-24 16:25:27,446 - INFO - Added new tweet: https://x.com/Dheeraj39286041/status/1821315352254673213
+2024-10-24 16:25:27,457 - INFO - Added new tweet: https://x.com/dhruvin9001/status/1821384435956154577
+2024-10-24 16:25:27,462 - INFO - Added new tweet: https://x.com/vikramKoch77356/status/1821414463385260151
+2024-10-24 16:25:27,466 - INFO - Added new tweet: https://x.com/Vishi2326/status/1714886957434904920
+2024-10-24 16:25:27,470 - INFO - Added new tweet: https://x.com/RohitKu012/status/1821142262882955549
+2024-10-24 16:25:30,640 - INFO - Added new tweet: https://x.com/karjdaar01/status/1820503056116752562
+2024-10-24 16:25:30,640 - INFO - Added new tweet: https://x.com/pravinbharti007/status/1820437649087508855
+2024-10-24 16:25:30,656 - INFO - Added new tweet: https://x.com/KotakDhira71520/status/1820366949433442304
+2024-10-24 16:25:30,656 - INFO - Added new tweet: https://x.com/KamalPawar93376/status/1820366898015711703
+2024-10-24 16:25:30,672 - INFO - Added new tweet: https://x.com/MilindDhan57914/status/1820370661295931434
+2024-10-24 16:25:30,672 - INFO - Added new tweet: https://x.com/abdullah1101198/status/1820368655256785396
+2024-10-24 16:25:30,672 - INFO - Added new tweet: https://x.com/george_gj_/status/1819929081854505280
+2024-10-24 16:25:30,687 - INFO - Added new tweet: https://x.com/george_gj_/status/1819691929149350100
+2024-10-24 16:25:33,903 - INFO - Added new tweet: https://x.com/karjdaar01/status/1819447206245523630
+2024-10-24 16:25:33,903 - INFO - Added new tweet: https://x.com/Rahul_Jorashiya/status/1818989517891613107
+2024-10-24 16:25:33,903 - INFO - Added new tweet: https://x.com/ChiroP89/status/1818789979838902492
+2024-10-24 16:25:33,903 - INFO - Added new tweet: https://x.com/nsitharamanoffc/status/1817555169543885021
+2024-10-24 16:25:33,919 - INFO - Added new tweet: https://x.com/RakeshK11891600/status/1817868771240853703
+2024-10-24 16:25:33,919 - INFO - Added new tweet: https://x.com/VishalMishra97/status/1817866404848095290
+2024-10-24 16:25:37,152 - INFO - Added new tweet: https://x.com/abdullah1101198/status/1818945140502696037
+2024-10-24 16:25:37,152 - INFO - Added new tweet: https://x.com/csunilnew/status/1818519364158550281
+2024-10-24 16:25:37,168 - INFO - Added new tweet: https://x.com/RiturajSon/status/1819256846433374608
+2024-10-24 16:25:37,168 - INFO - Added new tweet: https://x.com/faishal000011/status/1819238816185569737
+2024-10-24 16:25:40,377 - INFO - Added new tweet: https://x.com/AaradhyaRe73673/status/1817453100447502412
+2024-10-24 16:25:40,377 - INFO - Added new tweet: https://x.com/LYLF_15/status/1817470430065869265
+2024-10-24 16:25:40,377 - INFO - Added new tweet: https://x.com/LYLF_15/status/1817476851628970482
+2024-10-24 16:25:40,393 - INFO - Added new tweet: https://x.com/LYLF_15/status/1817476187855462403
+2024-10-24 16:25:40,393 - INFO - Added new tweet: https://x.com/knowledgeatpeak/status/1817551370473648266
+2024-10-24 16:25:40,393 - INFO - Added new tweet: https://x.com/ateeqsinwan/status/1816792696721408409
+2024-10-24 16:25:43,585 - INFO - Added new tweet: https://x.com/VinodMishr82335/status/1816380547469566248
+2024-10-24 16:25:43,595 - INFO - Added new tweet: https://x.com/aknaivli/status/1815742077675634818
+2024-10-24 16:25:43,595 - INFO - Added new tweet: https://x.com/Gauravt30018692/status/1814592273872793922
+2024-10-24 16:25:43,595 - INFO - Added new tweet: https://x.com/baapofrecovery/status/1816058114606878946
+2024-10-24 16:25:46,798 - INFO - Added new tweet: https://x.com/HaiderK76834/status/1815362548897898781
+2024-10-24 16:25:46,798 - INFO - Added new tweet: https://x.com/goel2707/status/1815371709479813195
+2024-10-24 16:25:46,798 - INFO - Added new tweet: https://x.com/Prakash10033512/status/1815363048732782846
+2024-10-24 16:25:46,813 - INFO - Added new tweet: https://x.com/Prakash10033512/status/1815362663427256541
+2024-10-24 16:25:46,813 - INFO - Added new tweet: https://x.com/Mohitadwait/status/1815365690351894546
+2024-10-24 16:25:46,813 - INFO - Added new tweet: https://x.com/baapofrecovery/status/1815363133642338337
+2024-10-24 16:25:46,813 - INFO - Added new tweet: https://x.com/abdullah1101198/status/1815367756570657143
+2024-10-24 16:25:46,829 - INFO - Added new tweet: https://x.com/abdullah1101198/status/1815367677839352125
+2024-10-24 16:25:46,829 - INFO - Added new tweet: https://x.com/SumitKu809/status/1815371137863282920
+2024-10-24 16:25:50,057 - INFO - Added new tweet: https://x.com/narendramodi/status/1814300168461922751
+2024-10-24 16:25:50,057 - INFO - Added new tweet: https://x.com/nsedas30423/status/1814313139778764947
+2024-10-24 16:25:50,078 - INFO - Added new tweet: https://x.com/deeksha207281/status/1812777428034466284
+2024-10-24 16:25:50,078 - INFO - Added new tweet: https://x.com/deeksha207281/status/1813869065066414538
+2024-10-24 16:25:50,078 - INFO - Added new tweet: https://x.com/niketku03367428/status/1813842045146202395
+2024-10-24 16:25:50,088 - INFO - Added new tweet: https://x.com/Vikasag32162465/status/1812939061746934203
+2024-10-24 16:25:53,238 - INFO - Added new tweet: https://x.com/sachinshetty10/status/1811769639967260756
+2024-10-24 16:25:53,254 - INFO - Added new tweet: https://x.com/champ30000348/status/1812036544837869852
+2024-10-24 16:25:56,488 - INFO - Added new tweet: https://x.com/kapilarora7891/status/1811661504611053924
+2024-10-24 16:25:56,488 - INFO - Added new tweet: https://x.com/karthikkona77/status/1811658957364269170
+2024-10-24 16:25:56,500 - INFO - Added new tweet: https://x.com/DineshS00105569/status/1811620774803046503
+2024-10-24 16:25:56,507 - INFO - Added new tweet: https://x.com/DineshS00105569/status/1811620884882374712
+2024-10-24 16:25:59,702 - INFO - Added new tweet: https://x.com/AmbokarMangesh/status/1809417683974099188
+2024-10-24 16:25:59,707 - INFO - Added new tweet: https://x.com/AmbokarMangesh/status/1809275946760904730
+2024-10-24 16:25:59,707 - INFO - Added new tweet: https://x.com/PrashantLunkad/status/1809465538588078441
+2024-10-24 16:25:59,718 - INFO - Added new tweet: https://x.com/BtBewtyou/status/1810508751004135789
+2024-10-24 16:25:59,718 - INFO - Added new tweet: https://x.com/DineshS00105569/status/1810233138372587589
+2024-10-24 16:26:02,929 - INFO - Added new tweet: https://x.com/ChiroP89/status/1808814921766805671
+2024-10-24 16:26:02,929 - INFO - Added new tweet: https://x.com/ChauhanSia65859/status/1808838169078444041
+2024-10-24 16:26:02,929 - INFO - Added new tweet: https://x.com/KirthirajanaG/status/1808876109821301135
+2024-10-24 16:26:02,944 - INFO - Added new tweet: https://x.com/mayan4813/status/1808804222445502502
+2024-10-24 16:26:02,944 - INFO - Added new tweet: https://x.com/gigconnects926/status/1808818368712942074
+2024-10-24 16:26:06,136 - INFO - Added new tweet: https://x.com/aashishjain19/status/1807385352459477282
+2024-10-24 16:26:06,136 - INFO - Added new tweet: https://x.com/ramjishukla6/status/1807660954378993748
+2024-10-24 16:26:06,136 - INFO - Added new tweet: https://x.com/ramjishukla6/status/1807663909865984420
+2024-10-24 16:26:06,136 - INFO - Added new tweet: https://x.com/atulvatsa25/status/1807363458632978735
+2024-10-24 16:26:06,151 - INFO - Added new tweet: https://x.com/atulvatsa25/status/1807363040498634959
+2024-10-24 16:26:06,151 - INFO - Added new tweet: https://x.com/sparshrocks86/status/1806279502181589483
+2024-10-24 16:26:09,379 - INFO - Added new tweet: https://x.com/NikeshVidh49141/status/1804626173919703066
+2024-10-24 16:26:09,379 - INFO - Added new tweet: https://x.com/Arnab1202/status/1805865242335101262
+2024-10-24 16:26:09,379 - INFO - Added new tweet: https://x.com/aashishjain19/status/1804768559219786141
+2024-10-24 16:26:09,379 - INFO - Added new tweet: https://x.com/aashishjain19/status/1805133100948820385
+2024-10-24 16:26:09,379 - INFO - Added new tweet: https://x.com/bidisa_naredi/status/1805532859106738591
+2024-10-24 16:26:12,573 - INFO - Added new tweet: https://x.com/PranavGaru31047/status/1804059849447055447
+2024-10-24 16:26:12,573 - INFO - Added new tweet: https://x.com/raushan1633109/status/1803710746573885623
+2024-10-24 16:26:12,573 - INFO - Added new tweet: https://x.com/raushan1633109/status/1804417470654222359
+2024-10-24 16:26:12,573 - INFO - Added new tweet: https://x.com/RishabhKanda3/status/1804408999204319664
+2024-10-24 16:26:12,589 - INFO - Added new tweet: https://x.com/raushan1633109/status/1804033700620857680
+2024-10-24 16:26:12,589 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1804032075756114347
+2024-10-24 16:26:12,589 - INFO - Added new tweet: https://x.com/PakkaBanda/status/1804049631996772737
+2024-10-24 16:26:12,589 - INFO - Added new tweet: https://x.com/goel2707/status/1804061953285067037
+2024-10-24 16:26:12,604 - INFO - Saved checkpoint with 205 tweets
+2024-10-24 16:26:12,604 - INFO - Checkpoint saved. Total tweets: 205
+2024-10-24 16:26:15,845 - INFO - Added new tweet: https://x.com/SidAnand1235010/status/1803385274136928527
+2024-10-24 16:26:15,845 - INFO - Added new tweet: https://x.com/Justfor16401491/status/1803137725698285792
+2024-10-24 16:26:15,845 - INFO - Added new tweet: https://x.com/abhishekjoshi21/status/1803304331757887571
+2024-10-24 16:26:15,860 - INFO - Added new tweet: https://x.com/Suprtim1/status/1801963314626417078
+2024-10-24 16:26:15,860 - INFO - Added new tweet: https://x.com/Suprtim1/status/1803146822120251870
+2024-10-24 16:26:15,860 - INFO - Added new tweet: https://x.com/AaradhyaRe73673/status/1801826712390668576
+2024-10-24 16:26:15,860 - INFO - Added new tweet: https://x.com/AaradhyaRe73673/status/1803043821061918795
+2024-10-24 16:26:19,126 - INFO - Added new tweet: https://x.com/JITENDR49666992/status/1800821181727318324
+2024-10-24 16:26:19,129 - INFO - Added new tweet: https://x.com/aknaivli/status/1801304897159315623
+2024-10-24 16:26:19,129 - INFO - Added new tweet: https://x.com/errahulyadavind/status/1800830215280787732
+2024-10-24 16:26:19,136 - INFO - Added new tweet: https://x.com/errahulyadavind/status/1801460330494890078
+2024-10-24 16:26:19,136 - INFO - Added new tweet: https://x.com/sonuujjawal26/status/1801231785835266265
+2024-10-24 16:26:19,146 - INFO - Added new tweet: https://x.com/JITENDR49666992/status/1801209574214541551
+2024-10-24 16:26:22,304 - INFO - Added new tweet: https://x.com/Mr__Kishu/status/1800537588467748878
+2024-10-24 16:26:22,304 - INFO - Added new tweet: https://x.com/Mr__Kishu/status/1800538269903634564
+2024-10-24 16:26:22,304 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1800398590076203145
+2024-10-24 16:26:22,304 - INFO - Added new tweet: https://x.com/AmbokarMangesh/status/1800461300193182059
+2024-10-24 16:26:22,304 - INFO - Added new tweet: https://x.com/Tejas__TJ/status/1800168099314053379
+2024-10-24 16:26:22,320 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1800452082467770472
+2024-10-24 16:26:22,320 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1800404182840873436
+2024-10-24 16:26:22,320 - INFO - Added new tweet: https://x.com/ekvirus_/status/1800401113277153433
+2024-10-24 16:26:25,486 - INFO - Added new tweet: https://x.com/RaviPan92409857/status/1798961628643217645
+2024-10-24 16:26:25,486 - INFO - Added new tweet: https://x.com/balluresantosh/status/1799316796660687109
+2024-10-24 16:26:25,501 - INFO - Added new tweet: https://x.com/sikka29177/status/1799019756558880872
+2024-10-24 16:26:25,501 - INFO - Added new tweet: https://x.com/balluresantosh/status/1799050053702832279
+2024-10-24 16:26:25,501 - INFO - Added new tweet: https://x.com/Chetans27186404/status/1798695389538955683
+2024-10-24 16:26:25,517 - INFO - Added new tweet: https://x.com/Legaladvice1988/status/1798604555829252457
+2024-10-24 16:26:25,517 - INFO - Added new tweet: https://x.com/Legaladvice1988/status/1798613395702448310
+2024-10-24 16:26:28,653 - INFO - Added new tweet: https://x.com/PrashantLunkad/status/1797865602549461172
+2024-10-24 16:26:28,660 - INFO - Added new tweet: https://x.com/noharassment3/status/1796870129394782235
+2024-10-24 16:26:28,660 - INFO - Added new tweet: https://x.com/simmu3005/status/1796986751095107589
+2024-10-24 16:26:28,660 - INFO - Added new tweet: https://x.com/shankaruday42/status/1797325798086754513
+2024-10-24 16:26:31,838 - INFO - Added new tweet: https://x.com/PRASAD4931/status/1796137407743451451
+2024-10-24 16:26:31,838 - INFO - Added new tweet: https://x.com/AmolPawar_speak/status/1796100410387648598
+2024-10-24 16:26:31,850 - INFO - Added new tweet: https://x.com/creatorssph/status/1796052475025261032
+2024-10-24 16:26:31,850 - INFO - Added new tweet: https://x.com/kiransp580/status/1796038886889562427
+2024-10-24 16:26:31,850 - INFO - Added new tweet: https://x.com/pawansoodin/status/1795784164324880742
+2024-10-24 16:26:31,861 - INFO - Added new tweet: https://x.com/Kartika_Patel/status/1795719600895840360
+2024-10-24 16:26:35,070 - INFO - Added new tweet: https://x.com/AravindSingh123/status/1794365104718483797
+2024-10-24 16:26:35,075 - INFO - Added new tweet: https://x.com/VikasGawade5/status/1794008049381683437
+2024-10-24 16:26:35,075 - INFO - Added new tweet: https://x.com/VikasGawade5/status/1794008069594116140
+2024-10-24 16:26:35,075 - INFO - Added new tweet: https://x.com/AshokAleswaram/status/1794243708927508707
+2024-10-24 16:26:35,075 - INFO - Added new tweet: https://x.com/KironroyRk/status/1793921684405445032
+2024-10-24 16:26:35,090 - INFO - Added new tweet: https://x.com/jayprakasingh/status/1792075149442957715
+2024-10-24 16:26:35,090 - INFO - Added new tweet: https://x.com/AYUSHSingh43244/status/1794214308248981940
+2024-10-24 16:26:35,090 - INFO - Added new tweet: https://x.com/kartz1988/status/1793928465475064299
+2024-10-24 16:26:38,296 - INFO - Added new tweet: https://x.com/KironroyRk/status/1792860338179936283
+2024-10-24 16:26:38,313 - INFO - Added new tweet: https://x.com/sainivicky4567/status/1793159203273793834
+2024-10-24 16:26:38,313 - INFO - Added new tweet: https://x.com/cloud_geek97/status/1793277181814329558
+2024-10-24 16:26:38,328 - INFO - Added new tweet: https://x.com/bhaveshpaithane/status/1792787422084002053
+2024-10-24 16:26:38,328 - INFO - Added new tweet: https://x.com/bhaveshpaithane/status/1792852848629432491
+2024-10-24 16:26:41,447 - INFO - Added new tweet: https://x.com/jayprakasingh/status/1792103381395460572
+2024-10-24 16:26:41,463 - INFO - Added new tweet: https://x.com/ViswaranjanNay2/status/1791754811622543785
+2024-10-24 16:26:41,463 - INFO - Added new tweet: https://x.com/sharathbk89/status/1791463876195991764
+2024-10-24 16:26:41,463 - INFO - Added new tweet: https://x.com/sharathbk89/status/1791723058400825688
+2024-10-24 16:26:50,824 - INFO - Reached end of timeline or no new tweets found
+2024-10-24 16:26:50,844 - INFO - Saved checkpoint with 260 tweets
+2024-10-24 16:26:50,844 - INFO - Saved 260 tweets to tweets\fibe_india_timeline_tweets.csv
+2024-10-24 16:32:59,486 - INFO - ====== WebDriver manager ======
+2024-10-24 16:33:00,221 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:33:00,366 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:33:00,486 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\130.0.6723.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-10-24 16:33:04,789 - INFO - Waiting for manual login...
+2024-10-24 16:35:05,147 - INFO - Loaded 260 tweets from checkpoint
+2024-10-24 16:35:05,242 - INFO - Saved checkpoint with 260 tweets
+2024-10-24 16:35:05,242 - INFO - Checkpoint saved. Total tweets: 260
+2024-10-24 16:35:20,924 - INFO - Added new tweet: https://x.com/lkumar101/status/1847620922091720779
+2024-10-24 16:35:29,815 - INFO - Added new tweet: https://x.com/iabhinavtiwari/status/1846814712333320266
+2024-10-24 16:36:02,569 - INFO - ====== WebDriver manager ======
+2024-10-24 16:36:03,352 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:36:03,491 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:36:03,635 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\130.0.6723.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-10-24 16:36:07,905 - INFO - Waiting for manual login...
+2024-10-24 16:38:08,003 - INFO - Saved checkpoint with 0 tweets
+2024-10-24 16:38:08,003 - INFO - Checkpoint saved. Total tweets: 0
+2024-10-24 16:38:23,247 - INFO - Added new tweet: https://x.com/lkumar101/status/1847620922091720779
+2024-10-24 16:38:31,856 - INFO - Added new tweet: https://x.com/iabhinavtiwari/status/1846814712333320266
+2024-10-24 16:38:31,856 - INFO - Added new tweet: https://x.com/ShaktiMehr91409/status/1847614450951471297
+2024-10-24 16:38:40,587 - INFO - Added new tweet: https://x.com/amannimbhoria/status/1847530120984059944
+2024-10-24 16:38:40,587 - INFO - Added new tweet: https://x.com/PKC_Pratik/status/1846126177276105046
+2024-10-24 16:38:40,587 - INFO - Added new tweet: https://x.com/Syedimt49390252/status/1846504842790912478
+2024-10-24 16:38:40,587 - INFO - Added new tweet: https://x.com/amannimbhoria/status/1847526724042395929
+2024-10-24 16:38:40,602 - INFO - Added new tweet: https://x.com/Chetans27186404/status/1847184989529481296
+2024-10-24 16:38:40,602 - INFO - Added new tweet: https://x.com/Mukeshpati77212/status/1847246335260373246
+2024-10-24 16:38:50,707 - INFO - Added new tweet: https://x.com/Akhil57701870/status/1846514023593873667
+2024-10-24 16:38:50,707 - INFO - Added new tweet: https://x.com/advocate757/status/1846511731444437310
+2024-10-24 16:38:50,707 - INFO - Added new tweet: https://x.com/aa_arbaaz22/status/1846598069917217108
+2024-10-24 16:38:50,728 - INFO - Added new tweet: https://x.com/Chetans27186404/status/1846173230379241821
+2024-10-24 16:38:50,728 - INFO - Added new tweet: https://x.com/Chetans27186404/status/1846173124707926175
+2024-10-24 16:39:02,979 - INFO - Added new tweet: https://x.com/Yoyo37023843638/status/1844755373108207887
+2024-10-24 16:39:02,979 - INFO - Added new tweet: https://x.com/Yoyo37023843638/status/1845776347840311601
+2024-10-24 16:39:02,979 - INFO - Added new tweet: https://x.com/pradeep87585/status/1845747503129411587
+2024-10-24 16:39:03,001 - INFO - Added new tweet: https://x.com/PanditAmit1991/status/1839207567630938158
+2024-10-24 16:39:03,007 - INFO - Added new tweet: https://x.com/PanditAmit1991/status/1845725755994411012
+2024-10-24 16:39:16,674 - INFO - Added new tweet: https://x.com/advocate725/status/1844233042623397999
+2024-10-24 16:39:16,687 - INFO - Added new tweet: https://x.com/akashsam22/status/1844076932205510954
+2024-10-24 16:39:16,697 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1842106080731791788
+2024-10-24 16:39:16,701 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1843988314128617670
+2024-10-24 16:39:16,708 - INFO - Added new tweet: https://x.com/Syedimt49390252/status/1843882538118631868
+2024-10-24 16:39:16,712 - INFO - Added new tweet: https://x.com/Ruchika63116033/status/1843904397287534736
+2024-10-24 16:39:16,715 - INFO - Added new tweet: https://x.com/Ruchika63116033/status/1843883158066082190
+2024-10-24 16:39:29,567 - INFO - Added new tweet: https://x.com/ar62383130/status/1843295389799358614
+2024-10-24 16:39:29,574 - INFO - Added new tweet: https://x.com/akashsam22/status/1843018939842150472
+2024-10-24 16:39:29,585 - INFO - Added new tweet: https://x.com/shiksha_jh5714/status/1843210126553239823
+2024-10-24 16:39:29,591 - INFO - Added new tweet: https://x.com/K08284969Roshan/status/1842834442949177510
+2024-10-24 16:39:42,588 - INFO - Added new tweet: https://x.com/akashsam22/status/1840847662544797935
+2024-10-24 16:39:42,593 - INFO - Added new tweet: https://x.com/him_moni_21/status/1840796577314611326
+2024-10-24 16:39:42,598 - INFO - Added new tweet: https://x.com/ar62383130/status/1841138909314474017
+2024-10-24 16:39:55,493 - INFO - Added new tweet: https://x.com/S152326S/status/1841171262401626208
+2024-10-24 16:39:55,509 - INFO - Added new tweet: https://x.com/pintukumarpal2/status/1841351718551863364
+2024-10-24 16:39:55,519 - INFO - Added new tweet: https://x.com/fatcatrash/status/1841694200456196176
+2024-10-24 16:39:55,525 - INFO - Added new tweet: https://x.com/adityapatawari/status/1840716031158800647
+2024-10-24 16:39:55,525 - INFO - Added new tweet: https://x.com/Debabra09686210/status/1840269068110111032
+2024-10-24 16:40:08,610 - INFO - Added new tweet: https://x.com/shonuthinks/status/1840319664645181914
+2024-10-24 16:40:08,626 - INFO - Added new tweet: https://x.com/shonuthinks/status/1840319451004129377
+2024-10-24 16:40:08,626 - INFO - Added new tweet: https://x.com/irshd_qaisr/status/1840639356207247705
+2024-10-24 16:40:08,626 - INFO - Added new tweet: https://x.com/irshd_qaisr/status/1840642385744711926
+2024-10-24 16:40:08,641 - INFO - Added new tweet: https://x.com/akashsam22/status/1840490723348558070
+2024-10-24 16:40:08,641 - INFO - Added new tweet: https://x.com/saucap/status/1839272219416899824
+2024-10-24 16:40:08,641 - INFO - Added new tweet: https://x.com/DilipKarsa49044/status/1839640616222838890
+2024-10-24 16:40:08,657 - INFO - Added new tweet: https://x.com/Sanjeev39462430/status/1839593456689193428
+2024-10-24 16:40:20,887 - INFO - Added new tweet: https://x.com/SaiChaitanyapk/status/1838942751364202752
+2024-10-24 16:40:20,903 - INFO - Added new tweet: https://x.com/vishnu5424/status/1834858034889425047
+2024-10-24 16:40:20,903 - INFO - Added new tweet: https://x.com/hhhh16382221/status/1839091217533173873
+2024-10-24 16:40:20,903 - INFO - Added new tweet: https://x.com/JincyRajan26089/status/1838910139241206267
+2024-10-24 16:40:20,918 - INFO - Added new tweet: https://x.com/advHarshita123/status/1838891991477756346
+2024-10-24 16:40:20,918 - INFO - Added new tweet: https://x.com/Nirmesh87/status/1838467352700318113
+2024-10-24 16:40:33,347 - INFO - Added new tweet: https://x.com/shareqkk/status/1816051280797659640
+2024-10-24 16:40:33,347 - INFO - Added new tweet: https://x.com/styles_aj71992/status/1837450951512211819
+2024-10-24 16:40:33,363 - INFO - Added new tweet: https://x.com/vishnu5424/status/1837356420804514030
+2024-10-24 16:40:33,363 - INFO - Added new tweet: https://x.com/NakulSNair121/status/1837354769809297714
+2024-10-24 16:40:45,605 - INFO - Added new tweet: https://x.com/Rihan_corpHR/status/1836835851999007073
+2024-10-24 16:40:45,605 - INFO - Added new tweet: https://x.com/hitesh_soo32559/status/1836773746465701938
+2024-10-24 16:40:45,621 - INFO - Added new tweet: https://x.com/SohrabA72375015/status/1836740266520350773
+2024-10-24 16:40:45,636 - INFO - Added new tweet: https://x.com/SohrabA72375015/status/1836739662691381698
+2024-10-24 16:40:45,636 - INFO - Added new tweet: https://x.com/Pankaj46353175/status/1836733434204430374
+2024-10-24 16:40:45,653 - INFO - Added new tweet: https://x.com/Rihan_corpHR/status/1836116977414283357
+2024-10-24 16:40:58,618 - INFO - Added new tweet: https://x.com/Syedimt49390252/status/1835673846797443170
+2024-10-24 16:40:58,621 - INFO - Added new tweet: https://x.com/Syedimt49390252/status/1835930935998464424
+2024-10-24 16:40:58,621 - INFO - Added new tweet: https://x.com/sanjeev77712451/status/1835964298599780495
+2024-10-24 16:40:58,637 - INFO - Added new tweet: https://x.com/vishnu5424/status/1834859294350778611
+2024-10-24 16:40:58,637 - INFO - Added new tweet: https://x.com/Rihan_corpHR/status/1835766401123889154
+2024-10-24 16:40:58,653 - INFO - Added new tweet: https://x.com/sfs303168/status/1835661717138776139
+2024-10-24 16:41:11,156 - INFO - Added new tweet: https://x.com/7501731707/status/1834190703238492476
+2024-10-24 16:41:11,161 - INFO - Added new tweet: https://x.com/gaurritu12/status/1834299861639811451
+2024-10-24 16:41:24,056 - INFO - Added new tweet: https://x.com/K08284969Roshan/status/1833777310782112087
+2024-10-24 16:41:24,056 - INFO - Added new tweet: https://x.com/RodeySumit/status/1833435512293499240
+2024-10-24 16:41:24,072 - INFO - Added new tweet: https://x.com/RodeySumit/status/1833479987573268698
+2024-10-24 16:41:24,072 - INFO - Added new tweet: https://x.com/AbhinowKumar18/status/1833415278874484939
+2024-10-24 16:41:24,088 - INFO - Added new tweet: https://x.com/crypto_rockford/status/1833423941185962222
+2024-10-24 16:41:37,578 - INFO - Added new tweet: https://x.com/BabuGanta7292/status/1833383266969149497
+2024-10-24 16:41:37,584 - INFO - Added new tweet: https://x.com/Sunny_airdrop/status/1833337618270158925
+2024-10-24 16:41:37,590 - INFO - Added new tweet: https://x.com/BandBajaateRaho/status/1832669927175495801
+2024-10-24 16:41:37,596 - INFO - Added new tweet: https://x.com/99Rishe/status/1833040465098051686
+2024-10-24 16:41:37,602 - INFO - Added new tweet: https://x.com/Sunny_airdrop/status/1832680608184631318
+2024-10-24 16:41:37,610 - INFO - Added new tweet: https://x.com/99Rishe/status/1832670904314425452
+2024-10-24 16:41:37,617 - INFO - Added new tweet: https://x.com/Agdtruelovefor1/status/1832695840949010694
+2024-10-24 16:41:37,625 - INFO - Added new tweet: https://x.com/rahulve68392112/status/1725432053997453322
+2024-10-24 16:41:51,317 - INFO - Added new tweet: https://x.com/99Rishe/status/1831663722470711562
+2024-10-24 16:41:51,317 - INFO - Added new tweet: https://x.com/ADialabank/status/1830502080286482824
+2024-10-24 16:41:51,333 - INFO - Added new tweet: https://x.com/RIJUBHATTA7315/status/1830890023333310856
+2024-10-24 16:41:51,333 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1829955749608349928
+2024-10-24 16:41:51,349 - INFO - Added new tweet: https://x.com/rahulve68392112/status/1831037752022016495
+2024-10-24 16:42:04,040 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1828816234911240313
+2024-10-24 16:42:04,047 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1829368221482340413
+2024-10-24 16:42:04,058 - INFO - Added new tweet: https://x.com/amarkin1203/status/1829109676887208338
+2024-10-24 16:42:04,074 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1829112513893486915
+2024-10-24 16:42:04,089 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:42:04,089 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:42:17,940 - INFO - Added new tweet: https://x.com/manoj79497/status/1828794308964778114
+2024-10-24 16:42:17,950 - INFO - Added new tweet: https://x.com/Er_hsparmar/status/1828031620995244489
+2024-10-24 16:42:17,950 - INFO - Added new tweet: https://x.com/Er_hsparmar/status/1828756126114238483
+2024-10-24 16:42:17,950 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1828858302119456877
+2024-10-24 16:42:17,966 - INFO - Added new tweet: https://x.com/mieknathshinde/status/1828434575904624992
+2024-10-24 16:42:17,966 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1828817455546061107
+2024-10-24 16:42:17,966 - INFO - Added new tweet: https://x.com/mieknathshinde/status/1828442170044428590
+2024-10-24 16:42:31,449 - INFO - Added new tweet: https://x.com/GulSanowar4/status/1829043075165106661
+2024-10-24 16:42:31,455 - INFO - Added new tweet: https://x.com/kartiks567/status/1829065791892820111
+2024-10-24 16:42:31,462 - INFO - Added new tweet: https://x.com/FinReliance/status/1828869981192303092
+2024-10-24 16:42:31,468 - INFO - Added new tweet: https://x.com/manoj79497/status/1828758997203292596
+2024-10-24 16:42:31,473 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1828737745730023868
+2024-10-24 16:42:42,263 - INFO - Added new tweet: https://x.com/adityazore40/status/1828689258497839200
+2024-10-24 16:42:42,268 - INFO - Added new tweet: https://x.com/PatreRunda23594/status/1828647958465643000
+2024-10-24 16:42:42,277 - INFO - Added new tweet: https://x.com/gemtripathi/status/1828414562275619273
+2024-10-24 16:42:53,202 - INFO - Added new tweet: https://x.com/djsuraj09/status/1827638033212198974
+2024-10-24 16:42:53,221 - INFO - Added new tweet: https://x.com/DarakhshaZishan/status/1827929141594714504
+2024-10-24 16:42:53,228 - INFO - Added new tweet: https://x.com/aknaivli/status/1827238414615560310
+2024-10-24 16:43:04,606 - INFO - Added new tweet: https://x.com/Sunny_airdrop/status/1826295624699957721
+2024-10-24 16:43:04,615 - INFO - Added new tweet: https://x.com/Sanjeev39462430/status/1826535585273840046
+2024-10-24 16:43:17,024 - INFO - Added new tweet: https://x.com/mangesh_du24577/status/1826561265302466895
+2024-10-24 16:43:17,024 - INFO - Added new tweet: https://x.com/AnkitSaraswat59/status/1826492878740398236
+2024-10-24 16:44:32,145 - INFO - ====== WebDriver manager ======
+2024-10-24 16:44:33,104 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:44:33,269 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:44:33,390 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\130.0.6723.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-10-24 16:44:37,797 - INFO - Waiting for manual login...
+2024-10-24 16:46:38,040 - INFO - Loaded 92 tweets from checkpoint
+2024-10-24 16:46:38,167 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:46:38,167 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:46:38,167 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:46:38,170 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:46:48,262 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:46:48,262 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:46:48,262 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:46:48,262 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:46:58,344 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:46:58,349 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:46:58,349 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:46:58,349 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:08,438 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:08,438 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:47:08,438 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:47:08,438 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:18,506 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:18,506 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:47:18,506 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:47:18,506 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:28,571 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:28,571 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:47:28,571 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:47:28,571 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:38,650 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:38,650 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:47:38,650 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:47:38,650 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:48,733 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:48,733 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:47:48,733 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:47:48,733 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:58,814 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:47:58,814 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:47:58,814 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:47:58,814 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:48:08,910 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:48:08,910 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:48:08,910 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:48:08,910 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:48:18,994 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:48:18,994 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:48:18,994 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:48:18,994 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:48:29,107 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:48:29,107 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:48:29,107 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:48:29,107 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:48:39,187 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:48:39,202 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:48:39,202 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:48:39,202 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:48:49,295 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:48:49,295 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:48:49,295 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:48:49,295 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:50:44,474 - INFO - ====== WebDriver manager ======
+2024-10-24 16:50:45,197 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:50:45,326 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:50:45,499 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\130.0.6723.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-10-24 16:50:52,408 - INFO - Waiting for manual login...
+2024-10-24 16:52:52,434 - INFO - Loaded 92 tweets from checkpoint
+2024-10-24 16:52:52,508 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:52:52,508 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:52:52,508 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:52:52,508 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:53:02,575 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:53:02,575 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:53:02,575 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:53:02,575 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:53:12,649 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:53:12,649 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:53:12,649 - ERROR - Error during scrolling iteration: TwitterScraper.scroll_page() takes 0 positional arguments but 1 was given
+2024-10-24 16:53:12,649 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:55:20,521 - INFO - ====== WebDriver manager ======
+2024-10-24 16:55:21,216 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:55:21,550 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 16:55:21,693 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\130.0.6723.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-10-24 16:55:25,487 - INFO - Waiting for manual login...
+2024-10-24 16:57:25,518 - INFO - Loaded 92 tweets from checkpoint
+2024-10-24 16:57:25,613 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:57:25,613 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:57:25,613 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:57:25,613 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:57:35,721 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:57:35,721 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:57:35,721 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:57:35,721 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:57:45,806 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:57:45,806 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:57:45,806 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:57:45,806 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:57:55,904 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:57:55,904 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:57:55,904 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:57:55,904 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:05,986 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:05,986 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:58:05,986 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:58:05,986 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:16,055 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:16,055 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:58:16,055 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:58:16,055 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:26,140 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:26,140 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:58:26,140 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:58:26,143 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:36,229 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:36,229 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:58:36,229 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:58:36,229 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:46,293 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:46,293 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:58:46,293 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:58:46,293 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:56,358 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:58:56,358 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:58:56,358 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:58:56,374 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:06,458 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:06,458 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:59:06,458 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:59:06,458 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:16,573 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:16,573 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:59:16,573 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:59:16,585 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:26,651 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:26,651 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:59:26,651 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:59:26,651 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:36,733 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:36,733 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:59:36,733 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:59:36,733 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:46,796 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:46,796 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:59:46,796 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:59:46,812 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:56,928 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 16:59:56,928 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 16:59:56,928 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 16:59:56,928 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:00:07,037 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:00:07,037 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 17:00:07,037 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 17:00:07,037 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:00:17,120 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:00:17,120 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 17:00:17,120 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 17:00:17,120 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:00:27,218 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:00:27,218 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 17:00:27,218 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 17:00:27,218 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:00:37,323 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:00:37,323 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 17:00:37,323 - ERROR - Error during scrolling iteration: name 'driver' is not defined
+2024-10-24 17:00:37,323 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:02:04,410 - INFO - ====== WebDriver manager ======
+2024-10-24 17:02:05,103 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 17:02:05,289 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 17:02:05,424 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\130.0.6723.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-10-24 17:02:09,537 - INFO - Waiting for manual login...
+2024-10-24 17:04:09,583 - INFO - Loaded 92 tweets from checkpoint
+2024-10-24 17:04:09,668 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:04:09,669 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 17:04:11,684 - INFO - Reached end of timeline or no new tweets found
+2024-10-24 17:04:11,684 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:04:11,695 - INFO - Saved 92 tweets to tweets\fibe_india_timeline_tweets.csv
+2024-10-24 17:08:22,027 - INFO - ====== WebDriver manager ======
+2024-10-24 17:08:22,752 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 17:08:22,897 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 17:08:23,019 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\130.0.6723.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-10-24 17:08:27,135 - INFO - Waiting for manual login...
+2024-10-24 17:10:27,154 - INFO - Loaded 92 tweets from checkpoint
+2024-10-24 17:10:27,232 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:10:27,232 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 17:10:35,708 - INFO - Reached end of timeline or no new tweets found
+2024-10-24 17:10:35,724 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:10:35,724 - INFO - Saved 92 tweets to tweets\fibe_india_timeline_tweets.csv
+2024-10-24 17:13:25,112 - INFO - ====== WebDriver manager ======
+2024-10-24 17:13:25,834 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 17:13:26,736 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 17:13:26,941 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\130.0.6723.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-10-24 17:13:30,736 - INFO - Waiting for manual login...
+2024-10-24 17:15:30,786 - INFO - Loaded 92 tweets from checkpoint
+2024-10-24 17:15:30,855 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:15:30,855 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 17:17:06,409 - ERROR - Error scrolling page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.59)
+Stacktrace:
+	GetHandleVerifier [0x002B3853+24035]
+	(No symbol) [0x0023BBE4]
+	(No symbol) [0x0011C2D3]
+	(No symbol) [0x000FE00B]
+	(No symbol) [0x00185F4F]
+	(No symbol) [0x00198E99]
+	(No symbol) [0x0017FC26]
+	(No symbol) [0x0015218C]
+	(No symbol) [0x0015310D]
+	GetHandleVerifier [0x00559683+2800659]
+	GetHandleVerifier [0x005B423E+3172302]
+	GetHandleVerifier [0x005ACE52+3142626]
+	GetHandleVerifier [0x00356C00+692624]
+	(No symbol) [0x00244BFD]
+	(No symbol) [0x00241908]
+	(No symbol) [0x00241AA0]
+	(No symbol) [0x00233F50]
+	BaseThreadInitThunk [0x76706839+25]
+	RtlGetFullPathName_UEx [0x779F906F+1215]
+	RtlGetFullPathName_UEx [0x779F903D+1165]
+	(No symbol) [0x00000000]
+
+2024-10-24 17:17:06,412 - INFO - Reached end of timeline or no new tweets found
+2024-10-24 17:17:06,423 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:17:06,428 - INFO - Saved 92 tweets to tweets\fibe_india_timeline_tweets.csv
+2024-10-24 17:19:07,226 - INFO - ====== WebDriver manager ======
+2024-10-24 17:19:07,955 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 17:19:08,139 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-24 17:19:08,291 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\130.0.6723.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-10-24 17:19:12,538 - INFO - Waiting for manual login...
+2024-10-24 17:21:12,585 - INFO - Loaded 92 tweets from checkpoint
+2024-10-24 17:21:12,647 - INFO - Saved checkpoint with 92 tweets
+2024-10-24 17:21:12,647 - INFO - Checkpoint saved. Total tweets: 92
+2024-10-24 17:22:02,455 - INFO - Added new tweet: https://x.com/abhimanyudaa/status/1848683381724217491
+2024-10-24 17:22:19,011 - INFO - Added new tweet: https://x.com/niharikasingh01/status/1848666951414939789
+2024-10-24 17:22:19,014 - INFO - Added new tweet: https://x.com/BhavsarKet90906/status/1848724278851535358
+2024-10-24 17:22:27,246 - INFO - Added new tweet: https://x.com/RamanKumar61872/status/1848724682394198099
+2024-10-24 17:22:27,246 - INFO - Added new tweet: https://x.com/KotakDhira71520/status/1848684067836879202
+2024-10-24 17:22:35,712 - INFO - Added new tweet: https://x.com/KamalPawar93376/status/1848684604120506780
+2024-10-24 17:22:35,712 - INFO - Added new tweet: https://x.com/MilindDhan57914/status/1848686289530372250
+2024-10-24 17:22:35,712 - INFO - Added new tweet: https://x.com/zameer22262/status/1848686731618648478
+2024-10-24 17:22:35,712 - INFO - Added new tweet: https://x.com/BGTutoriall/status/1848724698558861784
+2024-10-24 17:22:35,712 - INFO - Added new tweet: https://x.com/BhavsarKet90906/status/1848759301998846233
+2024-10-24 17:22:44,015 - INFO - Added new tweet: https://x.com/anilpanday777gm/status/1848689168961991136
+2024-10-24 17:22:52,316 - INFO - Added new tweet: https://x.com/PravinGaikwad_6/status/1848771629347643860
+2024-10-24 17:22:52,316 - INFO - Added new tweet: https://x.com/AshishVerm14868/status/1848691626157474228
+2024-10-24 17:22:52,316 - INFO - Added new tweet: https://x.com/Deepaks66854371/status/1848693815097311449
+2024-10-24 17:23:00,623 - INFO - Added new tweet: https://x.com/aksinsuranceblg/status/1848694111206772824
+2024-10-24 17:23:00,623 - INFO - Added new tweet: https://x.com/Annu812004/status/1848740459168075865
+2024-10-24 17:23:00,623 - INFO - Added new tweet: https://x.com/Darshana1305/status/1848706145503834469
+2024-10-24 17:23:08,944 - INFO - Added new tweet: https://x.com/IamAswarth/status/1848709277499724247
+2024-10-24 17:23:08,944 - INFO - Added new tweet: https://x.com/sayyedrame65538/status/1848711044018950228
+2024-10-24 17:23:08,959 - INFO - Added new tweet: https://x.com/KumarSankl27659/status/1848724846144102711
+2024-10-24 17:23:17,261 - INFO - Added new tweet: https://x.com/SkonlineW50992/status/1848743059649118667
+2024-10-24 17:23:17,276 - INFO - Added new tweet: https://x.com/s29086336/status/1848766888769425754
+2024-10-24 17:23:17,276 - INFO - Added new tweet: https://x.com/HaiderK76834/status/1848791614548021326
+2024-10-24 17:23:25,576 - INFO - Added new tweet: https://x.com/imvarunchopra/status/1848635062910087367
+2024-10-24 17:23:33,933 - INFO - Added new tweet: https://x.com/JatinPadhyMHU/status/1848638658384970193
+2024-10-24 17:23:33,933 - INFO - Added new tweet: https://x.com/imvarunchopra/status/1848619320026288352
+2024-10-24 17:23:58,860 - INFO - Saved checkpoint with 118 tweets
+2024-10-24 17:23:58,860 - INFO - Checkpoint saved. Total tweets: 118
+2024-10-24 17:25:13,402 - INFO - Reached end of timeline or no new tweets found
+2024-10-24 17:25:13,423 - INFO - Saved checkpoint with 118 tweets
+2024-10-24 17:25:13,428 - INFO - Saved 118 tweets to tweets\fibe_india_timeline_tweets.csv
